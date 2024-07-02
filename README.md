@@ -8,10 +8,9 @@ Hello there! I'm Jubayer , a motivated and enthusiastic MERN stack developer eag
   </samp>
   <br/>
   <br/>
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jubayer-K&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-K&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Jubayer's Github Stats"></img>
-  <br/>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-K&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jubayer-K&theme=dark&hide_border=true" width="400">
 </p>
 </p>
 
